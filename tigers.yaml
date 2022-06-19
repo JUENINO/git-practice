@@ -16,3 +16,6 @@ pull 'this'
 pull test 2
 
 pull test 3 from VS Code
+
+
+git last pull test
