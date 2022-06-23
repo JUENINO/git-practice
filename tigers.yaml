@@ -11,6 +11,7 @@ members:
 - David
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - George 
 
 pull 'this'
@@ -24,6 +25,8 @@ git last pull test
 
 
 welcome new_brached
+=======
+>>>>>>> parent of d2fcac3 (FIRST COMMIT# Please enter the commit message for your changes. Lines starting)
 =======
 >>>>>>> parent of d2fcac3 (FIRST COMMIT# Please enter the commit message for your changes. Lines starting)
 =======
