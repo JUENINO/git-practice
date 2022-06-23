@@ -9,9 +9,12 @@ members:
 - Linda
 - William
 - David
+<<<<<<< HEAD
 - George 
 
 pull 'this'
 
 pull test 2
 
+=======
+>>>>>>> parent of d2fcac3 (FIRST COMMIT# Please enter the commit message for your changes. Lines starting)
